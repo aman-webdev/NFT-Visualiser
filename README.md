@@ -1,13 +1,22 @@
-# Sample Hardhat Project
+<h1 align="center">Welcome to NFT-Visualiser </h1>
+<p>
+</p>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+> This project deploys ERC1155 contract, Super Mario Collection and visualises the info of ERC1155 tokens in the collection
 
-Try running some of the following tasks:
+## Demo
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+cd client
+npm start
 ```
